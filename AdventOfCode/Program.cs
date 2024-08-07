@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Naloga1.Resitev2();
+            Naloga3.Resitev1();
         }
     }
 }
